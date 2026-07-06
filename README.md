@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard that analyzes employee attrition patterns across departments, job roles, demographics, and job satisfaction — built to help HR teams identify *where* and *why* employees are leaving, not just *how many*.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](<img width="1376" height="751" alt="dashboard" src="https://github.com/user-attachments/assets/4d66efbd-22df-4ddf-b83d-8de96a87725c" />
+)
 
 ## 📌 Project Overview
 
